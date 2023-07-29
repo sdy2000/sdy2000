@@ -2,7 +2,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdy2000&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 "👨‍💻🔥Programming is my passion, and every challenge and difficulty excites me."
-Hi I'm Sajad, I am a Software Developer who approaches every project with a commitment to efficiency and excellence. With expertise in a variety of programming fields, I create codes that are optimized for performance, easy to develop, and fully compatible with all components.
+
+ Hi I'm Sajad, I am a Software Developer who approaches every project with a commitment to efficiency and excellence. With expertise in a variety of programming fields, I create codes that are optimized for performance, easy to develop, and fully compatible with all components.
 
 📈💯As a developer, consultant, and responsive maintenance technician, I always test my code against all conditions and exceptions to ensure the best output. I prioritize code quality and performance improvement to deliver a remarkable product.
 
