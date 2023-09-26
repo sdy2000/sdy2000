@@ -51,22 +51,17 @@ Here are some of the key technologies I work with:
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-## Projects
-
-I love working on exciting projects that challenge my skills and help me grow as a developer. Here are some of my notable projects:
-
-1. [e-crypto](https://github.com/sdy2000/e-crypto): ECrypto is a modern and responsive cryptocurrency trading platform built using React.js, Redux, and a backend API fetching real-time market data from CoinGecko.Tech: React.js, Redux, JavaScript, HTML, CSS, API (CoinGecko).
-
-2. [dev-log](https://github.com/sdy2000/dev-log): DEVLog is a modern and responsive personal development blog built with Next.js and Tailwind CSS. The project utilizes React, Redux, .NET, .NET Web API, email sender, and authorization. The frontend provides a smooth user experience, and the design is highly modern and responsive.Tech: Next.js, Tailwind CSS, React, Redux, .NET, .NET Web API
-
 ## Contact
 
-- [Email](sajjad.darvish.yektayi@gmail.com)
-- [My LinkedIn](https://www.linkedin.com/in/sdy2000/)
-- [Telegram](https://t.me/sdy2000)
-- [Twitter](https://www.twitter.com/sdy20000)
-- [Instagram](https://www.linkedin.com/in/sdy2000)
+- Personal Portfolio : [sdy.netlify.app](https://sdy.netlify.app/)
+
+[Email](sajjad.darvish.yektayi@gmail.com) - 
+[LinkedIn](https://www.linkedin.com/in/sdy2000/) - 
+[Telegram](https://t.me/sdy2000) - 
+[Twitter](https://www.twitter.com/sdy20000) - 
+[Instagram](https://www.linkedin.com/in/sdy2000) - 
+[Whatsapp](https://wa.me/989370776595)
+
 
 ## Let's Connect
 
